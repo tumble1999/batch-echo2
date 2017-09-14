@@ -1,0 +1,3 @@
+[submodule "lib/tbp-core"]
+	path = lib/tbp-core
+	url = https://github.com/tumble1999/tbp-core
